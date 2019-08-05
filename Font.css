@@ -1,0 +1,23 @@
+.fontset{	
+	font-style:Times New Roman;
+	font-size:20px;
+}
+.fontset1{	
+	font-style:Times New Roman;
+	font-size:20px;
+	font-weight:BOLD;
+}
+.fontset2{	
+	font-style:Times New Roman;
+	text-decoration:UNDERLINE;
+}
+.fontset3{	
+	color:white;
+	font-style:Times New Roman;
+	font-size:40px;
+}
+.fontset4{	
+	color:white;
+	font-style:Times New Roman;
+	font-size:30px;
+}

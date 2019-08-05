@@ -1,0 +1,17 @@
+col{
+	background-color:lightgreen;
+}
+table{
+	background-color:skyblue;
+}
+hr{
+	width:100%;
+	border:2px solid black;
+	margin:30px;
+}
+.col1{
+	background-color:yellow;
+}
+.col2{
+	background-color:lightblue;
+}
